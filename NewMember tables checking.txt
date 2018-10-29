@@ -1,0 +1,26 @@
+New member tables
+
+/******************* Job alert ********************/
+match_applicant_others 			= ''
+match_applicant_experience		= '000'
+match_applicant_industry		= '000'
+match_applicant_education		= '000'
+match_applicant_grade			= '000'
+match_applicant_salary			= '000'
+match_applicant_jobarea			= ''
+if ft_student = Y and experience = new to workforce then
+match_applicant_jobarea_all		= '999'
+else
+match_applicant_jobarea_all		= 'all jobfunc belongs to that jobcat'
+end if
+match_applicant_jobcat			= 'reg_jobcat'
+/**************** End of Job alert *****************/
+
+/******************* Profile ********************/
+cms_applicant_others			= ''
+cms_applicant_experience		= 'reg_experience'
+cms_applicant_industry			= '' 	X
+cms_applicant_qualification		= '000' X
+cms_applicant_grade			= '000'
+cms_applicant_jobfunc			= 'reg_jobfunc'
+/**************** End of Profile ****************/
