@@ -1,4 +1,4 @@
-New member tables
+New member tables	**For Git tutorial use only
 
 /******************* Job alert ********************/
 match_applicant_others 			= ''
