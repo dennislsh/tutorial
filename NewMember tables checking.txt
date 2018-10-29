@@ -24,3 +24,5 @@ cms_applicant_qualification		= '000' X
 cms_applicant_grade			= '000'
 cms_applicant_jobfunc			= 'reg_jobfunc'
 /**************** End of Profile ****************/
+
+Goodbye World!
